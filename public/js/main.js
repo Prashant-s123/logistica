@@ -112,3 +112,6 @@
     
 })(jQuery);
 
+const observer = lozad();
+observer.observe();
+
