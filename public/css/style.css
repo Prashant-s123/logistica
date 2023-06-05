@@ -412,11 +412,8 @@
     border-top: 1px solid rgba(256, 256, 256, .1)
 }
 
-@media (min-width:600px) {
-    .about-start {
-        width: 360px;
-        height: 884px;
-    }
+@media (min-width:1400px){
+
 }
 
 .carousel-height {
